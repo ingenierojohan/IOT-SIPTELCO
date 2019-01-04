@@ -4,6 +4,6 @@
 ***
 
 ### *** Tecnologías Usadas ***
-> NodemCU
+> NodeMCU Lolin ESP8266
 
 
